@@ -1,4 +1,4 @@
-function add(a,b)
+function add(1+80)
 {
-  return a+b
+  return 81
 }
